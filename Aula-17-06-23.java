@@ -60,13 +60,13 @@ public class NewClass
         if(media <= 5.9)
         {
             System.out.println("|---------------------------------------------|");
-            System.out.println("|Aluno Reprovado                               |");
+            System.out.println("|Aluno Reprovado                              |");
             System.out.println("|---------------------------------------------|");
         }
         if(media >= 6.0)
         {
             System.out.println("|---------------------------------------------|");
-            System.out.println("|Aluno Aprovado                             |");
+            System.out.println("|Aluno Aprovado                               |");
             System.out.println("|---------------------------------------------|");
         }
     }
